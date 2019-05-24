@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "puppeteer": "^1.15.0"
+  },
+  "name": "scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
